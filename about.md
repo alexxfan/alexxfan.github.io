@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
+Dedicated and enthusiastic individual with a passion for technology, particularly in
+software engineering and automation.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+My hobbies include about the gym, music and learning about new technologies.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](contact@alexx.fan)
