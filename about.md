@@ -11,4 +11,4 @@ software engineering and automation.
 My hobbies include about the gym, music and learning about new technologies.
 ### Contact me
 
-[email@domain.com](contact@alexx.fan)
+[contact@alexx.fan](contact@alexx.fan)

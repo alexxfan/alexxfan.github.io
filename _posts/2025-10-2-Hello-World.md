@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gym Companion
+title: Gym 
 ---
 
 # Gym Companion App
@@ -33,5 +33,4 @@ The **Gym Companion App** is a mobile application designed to help users log and
 - **Agile SCRUM Methodology** - Managed with Trello.
 
 ## System Design
-![_config.yml]({{ site.baseurl }}images/fyp.png)
-
+![_config.yml]({{ site.baseurl }}/images/fyp.png)
