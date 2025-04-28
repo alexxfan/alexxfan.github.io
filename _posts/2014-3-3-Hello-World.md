@@ -3,8 +3,8 @@ layout: post
 title: Gym Companion App
 ---
 
-- Name: Alex Fan
-- Student Number: 20077347
+**Developer:** Alex Fan  
+**Student Number:** 20077347
 
 ##  Project Overview
 The **Gym Companion App** is a mobile application designed to help users log and monitor their gym progress while providing AI generated workoutx and meal plans tailored to their fitness goals. This project aims to bridge the gap between technology and personal well-being, by integrating AI and fitness tracking into a single, user friendly platform.
