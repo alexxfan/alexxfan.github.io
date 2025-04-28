@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Gym 
+title: Gym Companion App
 ---
-
-# Gym Companion App
 
 - Name: Alex Fan
 - Student Number: 20077347
@@ -14,7 +12,7 @@ The **Gym Companion App** is a mobile application designed to help users log and
 ## Features
 - **AI Generated Plans**: Personalised workout and meal plans based on user inputs.
 - **Progress Tracking**: Log workouts and track improvements over time.
-- **Nutrition Guidance**: Custom meal plans and recipes.
+- **Nutrition Guidance**: Custom meal plans.
 - **User Friendly Interface**: Simple and intuitive UI for all fitness levels.
 
 ## Technologies Used
@@ -31,6 +29,7 @@ The **Gym Companion App** is a mobile application designed to help users log and
 ### **Development & Deployment**
 - **GitHub Actions** - CI/CD automation.
 - **Agile SCRUM Methodology** - Managed with Trello.
+
 
 ## System Design
 ![_config.yml]({{ site.baseurl }}/images/fyp.png)
