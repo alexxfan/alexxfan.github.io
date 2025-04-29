@@ -4,7 +4,7 @@ title: Web App Setup
 ---
 
 Welcome! This guide will help you set up the **web hosted version** of the Gym Companion App.
-Here is the URL: https://gym-companion-frontend.expo.app
+Here is the URL: [https://gym-companion.expo.app/](https://gym-companion.expo.app/)
 
 > **Note:** This guide assumes you are using **Google Chrome**. Steps may vary slightly for other browsers.
 
