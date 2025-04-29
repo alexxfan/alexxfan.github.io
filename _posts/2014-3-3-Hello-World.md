@@ -8,6 +8,8 @@ The **Gym Companion App** is a mobile application designed to help users log and
 
 Here is the URL for the Web version: [https://gym-companion.expo.app/](https://gym-companion.expo.app/)
 
+> **Note:** This is primarily a mobile app. However, a web version was also created using the Expo React Native framework.
+
 ## Features
 - **AI Generated Plans**: Personalised workout and meal plans based on user inputs.
 - **Progress Tracking**: Log workouts and track improvements over time.
