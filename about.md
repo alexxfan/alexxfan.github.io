@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me
-
 I'm Alex Fan, a dedicated and enthusiastic individual with a passion for technology, particularly in software engineering and automation.
 
 ---
