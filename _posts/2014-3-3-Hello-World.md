@@ -9,6 +9,8 @@ title: Gym Companion App
 ##  Project Overview
 The **Gym Companion App** is a mobile application designed to help users log and monitor their gym progress while providing AI generated workoutx and meal plans tailored to their fitness goals. This project aims to bridge the gap between technology and personal well-being, by integrating AI and fitness tracking into a single, user friendly platform.
 
+> 🔗 [Click here to view the Web App Setup Guide](https://alexxfan.github.io/web-app-setup/)
+
 ## Features
 - **AI Generated Plans**: Personalised workout and meal plans based on user inputs.
 - **Progress Tracking**: Log workouts and track improvements over time.
