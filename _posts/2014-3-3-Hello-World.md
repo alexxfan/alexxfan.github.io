@@ -3,13 +3,10 @@ layout: post
 title: Gym Companion App
 ---
 
-**Developer:** Alex Fan  
-**Student Number:** 20077347
-
 ##  Project Overview
 The **Gym Companion App** is a mobile application designed to help users log and monitor their gym progress while providing AI generated workoutx and meal plans tailored to their fitness goals. This project aims to bridge the gap between technology and personal well-being, by integrating AI and fitness tracking into a single, user friendly platform.
 
-> 🔗 [Click here to view the Web App Setup Guide](https://alexxfan.github.io/web-app-setup/)
+Here is the URL for the Web version: [https://gym-companion.expo.app/](https://gym-companion.expo.app/)
 
 ## Features
 - **AI Generated Plans**: Personalised workout and meal plans based on user inputs.
@@ -32,6 +29,10 @@ The **Gym Companion App** is a mobile application designed to help users log and
 - **GitHub Actions** - CI/CD automation.
 - **Agile SCRUM Methodology** - Managed with Trello.
 
+### **User Interface**
+<p align="center">
+  <img src="{{ site.baseurl }}/images/homepage.png" alt="Gym Companion Home Page">
+</p>
 
 ## System Design
 ![_config.yml]({{ site.baseurl }}/images/fyp.png)
