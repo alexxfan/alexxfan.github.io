@@ -283,6 +283,31 @@ footer {
   text-align: center;
 }
 
+//fix avatar overlapping heading on mobile
+@media screen and (max-width: 600px) {
+  .site-avatar {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  .site-info {
+    padding-top: 5px;
+  }
+
+  .site-name {
+    font-size: 24px;
+    margin-top: 5px;
+  }
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
