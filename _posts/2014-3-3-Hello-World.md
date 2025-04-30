@@ -8,7 +8,7 @@ The **Gym Companion App** is a mobile application designed to help users log and
 
 Here is the URL for the Web version: [https://gym-companion.expo.app/](https://gym-companion.expo.app/)
 
-> **Note:** This is primarily a mobile app. However, a web version was also created using the Expo React Native framework.
+> **Note:** This is primarily a mobile app. However, a web version was also created using the Expo React Native framework. If using the web version, you must disable any pop-up blocker you may have as this prevents Auth0 from working. This is primarily an issue on **Safari** but may occur in other browsers too.
 
 ## Features
 - **AI Generated Plans**: Personalised workout and meal plans based on user inputs.
