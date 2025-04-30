@@ -18,23 +18,32 @@ Here is the URL for the Web version: [https://gym-companion.expo.app/](https://g
 
 ## Technologies Used
 ### **Frontend**
-- **React Native** - Cross platform mobile app development.
+- **React Native (with Expo)** – Cross platform mobile development, supporting both iOS, Android and also Web.
 
 ### **Backend**
-- **Node.js & TypeScript** - API and server side logic.
+- **Node.js, Typescript and Express.js** – REST API server with token-based authentication.
 - **PostgreSQL** - Relational database for structured data.
 
 ### **AI Integration**
 - **OpenAI API** - Generates personalised workout and meal plans.
+- **jsonrepair** – Used to clean and validate AI responses before saving to the database.
+
 
 ### **Development & Deployment**
-- **GitHub Actions** - CI/CD automation.
+- **GitHub Actions** – Automated CI/CD pipeline for build and deployment.
+- **Docker & Docker Compose** – Containerisation for local and cloud deployment.
+- **Kubernetes (Azure AKS)** – Used for cloud hosting.
 - **Agile SCRUM Methodology** - Managed with Trello.
 
-### **User Interface**
+## **User Interface**
 <p align="center">
   <img src="{{ site.baseurl }}/images/homepage.png" alt="Gym Companion Home Page">
 </p>
 
 ## System Design
 ![_config.yml]({{ site.baseurl }}/images/fyp.png)
+
+## ERD of Tables
+<p align="center">
+  <img src="{{ site.baseurl }}/images/db.png" alt="Database schema">
+</p>
